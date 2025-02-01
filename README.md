@@ -46,7 +46,7 @@ This repository contains:
 ## 🚀 How to Use
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/learning-repository.git
+   git clone https://github.com/indrajit002/learning-repository.git
    ```
 2. **Navigate through topics and explore the content.**
 3. **Contribute:** Feel free to raise issues or create pull requests if you have suggestions.
