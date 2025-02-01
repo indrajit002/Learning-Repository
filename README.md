@@ -55,7 +55,7 @@ This repository contains:
 This repository is licensed under the **MIT License**. Feel free to use and share the knowledge!
 
 ## 🌟 Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/indrajit-barman-276486227/]) | [Hashnode](https://thecsboy.hashnode.dev/) | [GitHub](https://github.com/indrajit002)
+[LinkedIn](https://www.linkedin.com/in/indrajit-barman-276486227/) | [Hashnode](https://thecsboy.hashnode.dev/) | [GitHub](https://github.com/indrajit002)
 
 ---
 Happy Learning! 🚀
